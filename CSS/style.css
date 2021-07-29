@@ -48,3 +48,13 @@ body {
     opacity: 0;
   }
 }
+
+@media (max-width: 768px) {
+  body {
+    width: auto;
+  }
+  #slider {
+    width: auto;
+    height: auto;
+  }
+}
